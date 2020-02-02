@@ -1,4 +1,4 @@
-#this repo for read 2
+# this repo for read 2
 ## some summary
 ### text editor 
 i read the differant between vary text editor and i relize there ara alote of text editer and they are different in some futer but in the end they do the same thing
