@@ -16,5 +16,6 @@ test to add
 ### for read 03 you can visit this [link](https://ahmadkmal.github.io/learning-journal/read3)
 ### for read 04 you can visit this [link](https://ahmadkmal.github.io/learning-journal/read4)
 ### for read 05 you can visit this [link](https://ahmadkmal.github.io/learning-journal/read5)
+### for read 06b you can visit this [link](https://ahmadkmal.github.io/learning-journal/read6b)
 ### for read 06 you can visit this [link](https://ahmadkmal.github.io/learning-journal/read6)
 thank you
